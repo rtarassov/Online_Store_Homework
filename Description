@@ -1,0 +1,30 @@
+Online Store
+Three types of products are sold in an online store:
+1. Electrical appliances including radio and television
+2. Shoes including sports shoes and formal shoes
+3. Readings including books and magazines
+
+
+In this online store, there should be at least the following operations:
+
+Definition of the user that includes the username and password as well as the name,
+surname, mobile number, email address and home address information including city,
+street name and postal code.
+Display the list of all products available in the store to the user along with their
+specifications, quantity and unit price
+Add product to cart
+Remove product from cart
+Print the list of all products added to the cart with their number
+Print the total prices of cart items
+
+
+Final Purchase Confirmation: After confirming purchase by the user, the store items
+balance will be updated according to the number of items purchased and the shopping cart must
+also become empty.
+
+The entry point of the program starts with the user registration and then a menu should be
+shown to the user through which he/she can view the list of items and add item to the cart.
+The maximum capacity of a cart is 5 items and if filled, it should not be possible to add a new
+item and display a message to the user unless the previous item is deleted.
+Draw relevant UML diagrams using software such as Visio or Draw.io (or any similar
+software).
