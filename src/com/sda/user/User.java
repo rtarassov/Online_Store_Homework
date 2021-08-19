@@ -9,6 +9,8 @@ public class User {
     private String city;
     private String streetName;
     private int postalCode;
+    private String emailAddress;
+
 
     public String getCity() {
         return city;
@@ -96,5 +98,4 @@ public class User {
 
 
 
-    private String emailAddress;
 }
